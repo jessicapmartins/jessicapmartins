@@ -2,7 +2,7 @@
 
 Profissional de dados com mais de 10 anos de experiência transformando informação em decisão de negócio. Combino BI, estatística e Machine Learning com visão comercial e, mais recentemente, IA generativa aplicada ao trabalho com dados.
 
-Hoje atuo com Customer Engagement no setor farmacêutico, em segmentação comportamental e modelos de recomendação de canal. Já passei por iFood, PagBank PagSeguro, Neotrust e Buscapé, sempre na ponte entre dados e áreas de negócio.
+Hoje atuo com Customer Engagement no setor farmacêutico, em segmentação comportamental de médicos e no apoio a modelos de recomendação de canal. Já passei por iFood, PagBank PagSeguro, Neotrust e Buscapé, sempre na ponte entre dados e áreas de negócio.
 
 #### 🔭 Projetos em destaque
 
