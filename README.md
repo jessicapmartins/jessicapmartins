@@ -35,4 +35,4 @@ Pós-graduação em Analytics e Inteligência Artificial – Data Science · FIA
 
 #### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/jessica-oliveira-martins/) · [Portfólio](https://claude.ai/artifact/YPyaaqo16QuwKBKGw9VF5m)
+[LinkedIn](https://www.linkedin.com/in/jessica-oliveira-martins/) · [Portfólio](https://portfolio-jessica-martins.vercel.app/)
